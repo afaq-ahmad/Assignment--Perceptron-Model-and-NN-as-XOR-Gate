@@ -1,3 +1,6 @@
+Read The Report for more details.
+
+
 # Task 1: Perceptron Model for Binary Classes Classification
 
 We have implemented perceptron model for binary classes classification. This perceptron takes 2D points as input and classifies it as belonging to either class 0 or 1. Perceptron model build in these steps:

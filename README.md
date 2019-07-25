@@ -21,7 +21,7 @@ We have implemented perceptron model for binary classes classification. This per
      
 # Task 2: Perceptron Model for 3-Classes Classification
 
-![Perceptron_model_3_classes](Perceptron_model_3_classes.jpg)
+![Perceptron_model_3_classes](Perceptron_model_3_classes.png)
 
 ### Steps:
         -Implemention Details

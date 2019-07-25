@@ -21,7 +21,7 @@ We have implemented perceptron model for binary classes classification. This per
      
 # Task 2: Perceptron Model for 3-Classes Classification
 
-![Perceptron_model_3_classes](Perceptron_model_3_classes.png)
+![Perceptron_model_3_classes](images/Perceptron_model_3_classes.png)
 
 ### Steps:
         -Implemention Details
@@ -40,3 +40,4 @@ We have implemented perceptron model for binary classes classification. This per
         -Minimum number of neurons needed in the hidden layer for successful training
         -When there are too many neurons in the hidden layer
         
+

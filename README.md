@@ -10,7 +10,7 @@ We have implemented perceptron model for binary classes classification. This per
 
         b.	Weight updating (gradient descent)
         
-![Perceptron model (google images)](images/Perceptron model (google images).jpg)
+![Perceptron_model](images/Perceptron_model.jpg)
 
 ### Steps:
         -Parameters Initialization
@@ -21,7 +21,7 @@ We have implemented perceptron model for binary classes classification. This per
      
 # Task 2: Perceptron Model for 3-Classes Classification
 
-![Perceptron model 3 classes](Perceptron model 3 classes.jpg)
+![Perceptron_model_3_classes](Perceptron_model_3_classes.jpg)
 
 ### Steps:
         -Implemention Details

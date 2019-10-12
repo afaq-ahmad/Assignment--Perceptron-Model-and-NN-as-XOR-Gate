@@ -56,6 +56,4 @@ We have made a 3-Layer Neural Network to classify the non-linearly separable out
         -When there are too many neurons in the hidden layer
         
 
-#### Support:
-Bitcoin: 3QFpMuvMcMaZ6cQUHqgrd2mDirz1JZi1W8
 
